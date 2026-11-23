@@ -1,7 +1,7 @@
 # merhaba-github
 Github ile oluşturduğum ilk depo.
 
-![SauLogo](saulogo-jpg)
+![SauLogo](saulogo.jpg)
 
 ## Benim Hakkımda
 - **Bölümüm:** Bilgisayar Mühendisliği
